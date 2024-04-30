@@ -1,4 +1,4 @@
-# Phase 2 Project 
+# RenoSmart : Personalised Strategies for Property Value Enhancement for Homeowners
 
 ### GROUP 1 MEMBERS :
 - ABIGAIL MWENDWA
