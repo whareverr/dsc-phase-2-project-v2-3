@@ -65,7 +65,9 @@ Modeling began with a simple linear regression to predict prices based on square
 Models were refined iteratively, evaluating their performance using metrics such as R-squared and Root Mean Squared Error.
 
 ## Recommendations
+
  **Model Summary**
+ 
 ![image](https://github.com/whareverr/dsc-phase-2-project-v2-3/blob/main/Visual5.png)
 
 From the provided OLS regression results, we can analyze the coefficients of the independent variables and their corresponding p-values to understand their impact on the dependent variable (price). Here's a breakdown:
